@@ -37,5 +37,10 @@
   *Bronze/Silver/Gold lakehouse with PySpark + Delta tables*
 
 ---
+
 ### 🎓 Certifications  
-- [Prompt Engineering for Generative AI](#) – *DeepLearning.AI / Coursera*, 2024
+- [Prompt Engineering for Generative AI](#) – *DeepLearning.AI / Coursera*, 2024  
+
+---
+
+<p align="center"><i>✨ I love turning messy data into reliable pipelines and clear decisions. ✨</i></p>
