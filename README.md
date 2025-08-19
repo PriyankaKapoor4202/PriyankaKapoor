@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 M.S. in Business Analytics & AI (Dec 2025)<br>
-⚡ Skilled in Spark, Airflow, dbt, Snowflake, SQL, Python<br>
+⚡ Skilled in Spark, Airflow, Databricks, Snowflake, SQL, Python<br>
 📊 Dashboards: Tableau, Power BI, Streamlit  
 </p>
 
