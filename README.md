@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Priyanka 👋</h1>
-<h3 align="center">Data Engineer | Data Analyst | Data Scientist</h3>
+<h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
 
 <p align="center">
 🎓 M.S. in Business Analytics & AI (Dec 2025)<br>
